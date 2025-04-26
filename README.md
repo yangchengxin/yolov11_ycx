@@ -1,0 +1,1 @@
+yolov11 train + trt（pt -> onnx -> engine(trtmodel)） + trtx(pt -> wts ->engine(trtmodel))
