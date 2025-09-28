@@ -1,0 +1,3 @@
+yolo11_trt/**/*.onnx
+yolo11_trt/**/*.engine
+yolo11_trt/**/*.build
